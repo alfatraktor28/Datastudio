@@ -209,4 +209,4 @@ DataStudio is available as a full, free version with all features and updates in
 Experience the power of data analysis with DataStudio. **Download now and take your experiments to the next level!**
 
 ---
-**Last updated:** 2026-11-09 18:32:40 UTC
+**Last updated:** 2026-11-10 01:55:53 UTC
